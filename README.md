@@ -1,4 +1,4 @@
-# 💫 About Me:
+# About Me:
 Hi! <br><br>I’m currently on an exciting journey through the world of software development.<br>Right now, I’m focused on strengthening my skills in Java, MySQL, and JavaScript — building a solid foundation in backend logic, databases, and dynamic front-end experiences.<br><br>Every project I work on is a step toward becoming a more capable and creative developer. I’m passionate about problem-solving, continuous learning, and turning ideas into real, working applications.<br><br>What I’m Learning<br> • Java – mastering object-oriented programming and core application development<br> • MySQL – exploring relational databases, queries, and efficient data management<br> • JavaScript – bringing interactivity to the web and sharpening my front-end skills<br><br>My Goal<br><br>To keep learning, keep building, and keep pushing my limits as a developer.<br>This GitHub is where I share my progress, projects, experiments, and growth.<br><br>I am open to discover new technologies and developing inspiring projects!
 
 
