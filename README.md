@@ -8,8 +8,11 @@ Current Technical Focus:
 <br>
 <br>
 Backend: Developing robust application logic using Java 21-25.
+
 Frontend: Built interactive, responsive UIs with React, TypeScript, and JavaScript.
+
 APIs: Implementing REST API integrations.
+
 Tools: have beginner level RedHat certification on Linux environments for streamlined development, Git/GitHub
 
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/sophia.zhelikhivska) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](www.linkedin.com/in/sophia-zhelikhivska-971677398) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:zelihovskaasofia5@gmail.com) 
