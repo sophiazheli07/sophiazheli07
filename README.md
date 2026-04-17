@@ -1,5 +1,17 @@
-# About Me:
-Hi! <br><br>I’m currently on an exciting journey through the world of software development.<br>Right now, I’m focused on strengthening my skills in Java, MySQL, and JavaScript — building a solid foundation in backend logic, databases, and dynamic front-end experiences.<br><br>Every project I work on is a step toward becoming a more capable and creative developer. I’m passionate about problem-solving, continuous learning, and turning ideas into real, working applications.<br><br>What I’m Learning<br> • Java – mastering object-oriented programming and core application development<br> • MySQL – exploring relational databases, queries, and efficient data management<br> • JavaScript – bringing interactivity to the web and sharpening my front-end skills
+About Me
+<br>
+<br>
+I am a Computer Science student at the Polish-Japanese Academy of Information Technology, focused on building scalable, efficient software solutions. My approach to development centers on solving complex problems through clean architecture and continuous technical refinement.
+<br>
+<br>
+Current Technical Focus:
+<br>
+<br>
+Backend: Mastering Java for robust, object-oriented application logic.
+<br>
+Databases: Designing relational architectures and optimizing data management using MySQL.
+<br>
+Frontend: Developing interactive, user-centric interfaces with JavaScript and modern web standards.
 
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/sophia.zhelikhivska) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](www.linkedin.com/in/sophia-zhelikhivska-971677398) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:zelihovskaasofia5@gmail.com) 
 
