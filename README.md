@@ -7,11 +7,10 @@ I am a Computer Science student at the Polish-Japanese Academy of Information Te
 Current Technical Focus:
 <br>
 <br>
-Backend: Mastering Java for robust, object-oriented application logic.
-<br>
-Databases: Designing relational architectures and optimizing data management using MySQL.
-<br>
-Frontend: Developing interactive, user-centric interfaces with JavaScript and modern web standards.
+Backend: Developing robust application logic using Java 21-25.
+Frontend: Built interactive, responsive UIs with React, TypeScript, and JavaScript.
+APIs: Implementing REST API integrations.
+Tools: have beginner level RedHat certification on Linux environments for streamlined development, Git/GitHub
 
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/sophia.zhelikhivska) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](www.linkedin.com/in/sophia-zhelikhivska-971677398) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:zelihovskaasofia5@gmail.com) 
 
