@@ -1,40 +1,11 @@
-About Me
-<br>
-<br>
-I am a Computer Science student at the Polish-Japanese Academy of Information Technology, focused on building scalable, efficient software solutions. My approach to development centers on solving complex problems through clean architecture and continuous technical refinement.
-<br>
-<br>
-Current Technical Focus:
-<br>
-<br>
-Backend: Developing robust application logic using Java 21-25.
+I’m a Computer Science Student at PJAIT focused on the intersection of Backend Engineering and Systems Infrastructure. I enjoy building scalable applications and exploring the low-level mechanics of how they stay secure and connected.
 
-Frontend: Built interactive, responsive UIs with React, TypeScript, and JavaScript.
+Tech & Interests
 
-APIs: Implementing REST API integrations.
+Systems & DevOps: Currently architecting VPN-based projects to deepen my knowledge of network tunneling, Linux Administration (Red Hat Certified), and secure infrastructure.
 
-Tools: have beginner level RedHat certification on Linux environments for streamlined development, Git/GitHub
+Backend: Building high-performance logic with Java (21+), Spring Boot, and RESTful APIs.
 
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/sophia.zhelikhivska) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](www.linkedin.com/in/sophia-zhelikhivska-971677398) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:zelihovskaasofia5@gmail.com) 
+Workflow: Strong advocate for Linux environments, Bash scripting, and Git-centric development.
 
-
-
-
----
-[![](https://visitcount.itsvg.in/api?id=sophiazheli07&icon=0&color=0)](https://visitcount.itsvg.in)
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
-<!--
-**sophiazheli07/sophiazheli07** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/www.linkedin.com/in/sofiia-zhelikhivska-971677398) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:sofiiazhelikhivska@gmail.com) 
