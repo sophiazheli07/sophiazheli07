@@ -8,4 +8,4 @@ Backend: Building high-performance logic with Java (21+), Spring Boot, and RESTf
 
 Workflow: Strong advocate for Linux environments, Bash scripting, and Git-centric development.
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/www.linkedin.com/in/sofiia-zhelikhivska-971677398) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:sofiiazhelikhivska@gmail.com) 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/www.linkedin.com/in/sofiia-zhelikhivska) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:sofiiazhelikhivska@gmail.com) 
